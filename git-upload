@@ -2,7 +2,7 @@
 echo "what is the commit message?"
 read commitmessage
 git config --global user.email ashithosh.lv@gamil.com
-#git config --global user.name Ashu-wolves
+git config --global user.name Ashu-wolves
 git add .
 #git commit -m "Mon Sep 23 13:02:32 EEST 2019"
 git commit -m commitmessage
