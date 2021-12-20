@@ -7,4 +7,3 @@ git add .
 #git commit -m "Mon Sep 23 13:02:32 EEST 2019"
 git commit -m commitmessage
 git push origin master
-fi
